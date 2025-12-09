@@ -1,3 +1,18 @@
-streamlit>=1.28.0
-pandas>=2.0.0
-pillow>=10.0.0
+# Ruchitara Foods Inventory Management System - Requirements
+
+# Web Framework
+streamlit==1.31.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Image Processing
+Pillow==10.2.0
+qrcode[pil]==7.4.2
+
+# Additional utilities
+python-dotenv==1.0.0
