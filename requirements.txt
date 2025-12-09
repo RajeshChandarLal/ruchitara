@@ -11,7 +11,7 @@ pandas==2.2.0
 numpy==1.26.3
 
 # Image Processing
-Pillow==10.2.0
+Pillow
 qrcode[pil]==7.4.2
 
 # Additional utilities
